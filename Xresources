@@ -1,19 +1,5 @@
-#define base00 #231F20
-#define base01 #1C3F95
-#define base02 #5A5758
-#define base03 #737171
-#define base04 #959CA1
-#define base05 #D9D8D8
-#define base06 #E7E7E8
-#define base07 #FFFFFF
-#define base08 #EE2E24
-#define base09 #F386A1
-#define base0A #FFD204
-#define base0B #00853E
-#define base0C #85CEBC
-#define base0D #009DDC
-#define base0E #98005D
-#define base0F #B06110
+#include ".Xres/colors/visiblue"
+#include ".Xres/rofi"
 
 *.foreground:	base05
 *.background:	base00
@@ -39,6 +25,3 @@
 
 URxvt.font:		xft:Terminess Powerline:size=9:style=bold
 URxvt.scrollBar:	false
-
-#include ".Xres/colors/visiblue"
-#include ".Xres/rofi"
