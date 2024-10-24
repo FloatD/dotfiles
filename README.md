@@ -1,3 +1,3 @@
 # ~/.dotfiles
 
-![](https://github.com/FloatD/dotfiles/pic/bspwm.png)
+![](https://github.com/FloatD/dotfiles/blob/master/pic/bspwm.png)
