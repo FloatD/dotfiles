@@ -1,0 +1,4 @@
+[global-wm]
+include-file = $HOME/.config/polybar/themes/dracula
+
+font-0 = FantasqueSansM Nerd Font 16
